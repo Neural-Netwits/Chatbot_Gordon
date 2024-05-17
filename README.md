@@ -3,6 +3,6 @@ Gordon: A Culinary Companion Chatbot.
 
 ---------------------------------------------------------------
 Team Members -
-Jai
+Jai. 
 Lakshay
 Mrugan
