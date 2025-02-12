@@ -2,7 +2,7 @@
 Gordon: A Culinary Companion Chatbot.  
 
 ---------------------------------------------------------------
-Aeam members -  
+Team members -  
 Jai Singh  
 Lakshay Kothari  
 Mrugan Kulkarni
