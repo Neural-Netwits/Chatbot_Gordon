@@ -1,5 +1,5 @@
 # Chatbot_Gordon
-Gordon: A Culinary Companion Chatbot developed using NLP techniques.
+Gordon: A Culinary Companion Chatbot developed using NLP techniques.  
 
 ---------------------------------------------------------------
 Team members -  
