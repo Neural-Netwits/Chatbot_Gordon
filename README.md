@@ -1,5 +1,5 @@
 # Chatbot_Gordon
-Gordon: A Culinary Companion Chatbot deve.  
+Gordon: A Culinary Companion Chatbot develo.  
 
 ---------------------------------------------------------------
 Team members -  
